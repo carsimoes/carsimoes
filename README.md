@@ -14,3 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+🌱 I’m currently learning:
+- Data Science in Udacity.
+- Roadmap to AZ-900: Microsoft Azure Fundamentals
+- Music for lift my spirit.
