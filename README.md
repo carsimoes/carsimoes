@@ -29,5 +29,5 @@ Here are some ideas to get you started:
  </div>
  
  #### Contact me:
- - [Linkedin](www.linkedin.com/in/carlosrenatosimoes)
+ - [Linkedin](https://www.linkedin.com/in/carlosrenatosimoes)
   
