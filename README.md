@@ -32,3 +32,7 @@ Here are some ideas to get you started:
  #### Contact me:
  - [Linkedin](https://www.linkedin.com/in/carlosrenatosimoes)
   
+
+<p align = 'center'>
+  <img src="https://visitor-badge.laobi.icu/badge?page_id=cryptus-neoxys.cryptus-neoxys" alt="visitor badge"/>
+</p>
