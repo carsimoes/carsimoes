@@ -16,11 +16,12 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning:
-    - Functional Programming techniques with Elixir.
-    - Data Science in Datacamp and Udacity.
-    - Roadmap to AZ-900: Microsoft Azure Fundamentals.
-    - Front end techniques.
-    - Music for lift my spirit.
+    Functional Programming techniques with Elixir.
+    Data Science in Datacamp and Udacity.
+    Roadmap to AZ-900: Microsoft Azure Fundamentals.
+    Front end techniques.
+    Music for lift my spirit.
+
 
 <div align="center">
   <a href="https://github.com/carsimoes">
