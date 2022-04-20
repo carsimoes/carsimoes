@@ -22,6 +22,9 @@ Here are some ideas to get you started:
    - Front end techniques.
    - Music for lift my spirit.
 
+<!--   GitHub stats graph -->
+### 📈 GitHub Activity Graph:
+![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=carsimoes&hide_border=true&theme=redical)
 
 <div align="center">
   <a href="https://github.com/carsimoes">
