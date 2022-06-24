@@ -17,9 +17,10 @@ Here are some ideas to get you started:
 -->
 
 🌱 I’m currently learning:
-   - Functional Programming techniques with Elixir.
-   - Asynchronous programming.
-   - Data Science in Datacamp and Udacity.
+
+![image](https://user-images.githubusercontent.com/4956055/175610717-154f1255-c0ea-4d36-ab68-3dfb930018f5.png)
+
+
    - Roadmap to AZ-900: Microsoft Azure Fundamentals.
    - Front end techniques.
    - Music for lift my spirit.
