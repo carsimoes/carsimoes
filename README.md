@@ -31,6 +31,8 @@ Here are some ideas to get you started:
 ### 📈 GitHub Activity Graph:
 ![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=carsimoes&hide_border=true&theme=redical)
 
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact)
+
 <div align="center">
   <a href="https://github.com/carsimoes">
   <!--
