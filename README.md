@@ -25,10 +25,10 @@ Here are some ideas to get you started:
    - Studying Data Science and Artificial Inteligence, PUCRS - Postgraduate.
    - Music for lift my spirit.
 
-<!--   GitHub stats graph -->
+<!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
-![Asmit's GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=carsimoes&hide_border=true&theme=redical)
-
+![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=carsimoes&hide_border=true&theme=redical)
+-->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact)
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carsimoes&theme=dark&background=000000)](https://git.io/streak-stats)
