@@ -22,7 +22,7 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/4956055/175610964-bdcbd548-e26c-4ac5-8694-c2653070dbd2.png)
 -->
 
-   - Studying Data Science and Artificial Inteligence, PUCRS - Postgraduate.
+   - Studying Data Science and Artificial Inteligence - PUCRS - Postgraduate.
    - Music for lift my spirit.
 
 <!--   GitHub stats graph 
