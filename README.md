@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-🌱 I’m currently learning:
+🌱 I’m currently learning
 
 <!--
 ![image](https://user-images.githubusercontent.com/4956055/175610964-bdcbd548-e26c-4ac5-8694-c2653070dbd2.png)
