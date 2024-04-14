@@ -29,6 +29,8 @@ Here are some ideas to get you started:
    - Studying Data Science and Artificial Inteligence - PostGraduate.
    - Music for lift my spirit.
 
+Let`s Talk about #coding #softwareengineering #softawearchitecture #problemsolving #csharp #datascience #criticalthinking 
+
 <!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=carsimoes&hide_border=true&theme=redical)
