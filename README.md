@@ -31,7 +31,7 @@ Here are some ideas to get you started:
 
 Let`s Talk about #coding #softwareengineering #softawearchitecture #problemsolving #csharp #datascience #criticalthinking 
 
-
+ <br> <br>
 
 ### Some interesting repositories from my Github:
   - .NET Core 6 integration with Elasticsearch using Facade Pattern: https://github.com/carsimoes/Elasticsearch_Indice_Worker
@@ -40,7 +40,7 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #problemsolvi
   - Fish obesity classifier with Support vector Classifier (SVM) concept: https://github.com/carsimoes/FishObesity
   - Python model that performs the prediction of happiness by GDP (Gross Domestic Product): https://github.com/carsimoes/MoneyAndHappiness
 
-
+ <br> <br>
 
 <!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
