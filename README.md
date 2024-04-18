@@ -28,7 +28,7 @@ Here are some ideas to get you started:
 
    - Studying Data Science and Artificial Inteligence - PostGraduate.
    - Music for lift my spirit.
-
+ <br> <br>
 Let`s Talk about #coding #softwareengineering #softawearchitecture #problemsolving #csharp #datascience #criticalthinking 
 
  <br> <br>
