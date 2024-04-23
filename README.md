@@ -35,7 +35,7 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #problemsolvi
 
 ### Some interesting repositories from my Github:
   - .NET Core 6 integration with Elasticsearch using Facade Pattern: https://github.com/carsimoes/Elasticsearch_Indice_Worker
-  - Data science project, data analysis on the Spotify database: https://github.com/carsimoes/space-is-rock
+  - Data analysis on the Spotify database: https://github.com/carsimoes/space-is-rock
   - .NET Core 8 project, software architecture proofs of concept in a note system: https://github.com/carsimoes/smart-notes
   - Fish obesity classifier with Support vector Classifier (SVM) concept: https://github.com/carsimoes/FishObesity
   - Python model that performs the prediction of happiness by GDP (Gross Domestic Product): https://github.com/carsimoes/MoneyAndHappiness
