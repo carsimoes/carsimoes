@@ -48,7 +48,11 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #problemsolvi
 -->
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=carsimoes&theme=dark&background=000000)](https://git.io/streak-stats)
+</br>
+
+[![GitHub Streak](https://streak-stats.demolab.com?user=carsimoes&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+
+</br>
 
 <div align="center">
   <a href="https://github.com/carsimoes">
