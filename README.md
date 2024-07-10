@@ -1,7 +1,7 @@
 
 ### Hello! 👋
 
-<img src="https://raw.githubusercontent.com/carsimoes/carsimoes/master/resources/banner.png" alt="Hello world">
+<img src="https://raw.githubusercontent.com/carsimoes/carsimoes/master/banner.png" alt="Hello world">
 
 <p align="center"> 
   Visitor count<br>
