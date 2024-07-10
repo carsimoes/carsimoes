@@ -1,6 +1,13 @@
 
 ### Hello! 👋
 
+<img src="https://raw.githubusercontent.com/carsimoes/carsimoes/master/resources/banner.png" alt="Hello world">
+
+<p align="center"> 
+  Visitor count<br>
+  <img src="https://profile-counter.glitch.me/carsimoes/count.svg" />
+</p>
+
 <div align="center">
   <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"/>
 </div>
