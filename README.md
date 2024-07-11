@@ -33,9 +33,11 @@ Here are some ideas to get you started:
 ![image](https://user-images.githubusercontent.com/4956055/175610964-bdcbd548-e26c-4ac5-8694-c2653070dbd2.png)
 -->
 
+   - Software Engineering
    - Studying Data Science and Artificial Inteligence 
    - Astronomy
-   - Music for lift my spirit
+   - Music
+     
  <br> <br>
 Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience #machinelearning
 
