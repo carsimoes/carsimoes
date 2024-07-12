@@ -76,8 +76,9 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
  </div>
  
 
+## I'm always looking for open source projects to work on and collaborate on.
 <br>
- 
+
  #### Contact me:
 
  [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/carlosrenatosimoes)
