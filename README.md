@@ -76,7 +76,7 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
  </div>
  
 
-## I'm always looking for open source projects to work on and collaborate on.
+## I'm always looking for open source projects to work on and collaborate on. ⚡
 <br>
 
  #### Contact me:
