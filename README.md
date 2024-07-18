@@ -61,7 +61,7 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
 
 </br>
 
-[![GitHub Streak](https://streak-stats.demolab.com?user=carsimoes&theme=vue-dark&hide_border=true)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=carsimoes&theme=merko&exclude_days=Sun%2CSat)](https://git.io/streak-stats)
 
 </br>
 
