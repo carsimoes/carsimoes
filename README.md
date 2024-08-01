@@ -1,7 +1,7 @@
 
 ### Hello! 👋
 
-<img src="https://raw.githubusercontent.com/carsimoes/carsimoes/master/banner.png" alt="Hello world">
+
 
 <p align="center"> 
   Visitor count<br>
@@ -66,6 +66,8 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
 
 </br>
 <img src="https://myreadme.vercel.app/api/embed/carsimoes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
+
+[![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6297528)](https://stackoverflow.com/users/6297528/carlos)
 
 
 <div align="center">
