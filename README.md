@@ -77,7 +77,9 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
   </a>
  <br>
  </div>
- 
+</br>
+ <img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/carsimoes?color=236ad3&style=for-the-badge&logo=github&label=Follow"/>
+</br>
 
  #### Contact me:
 
