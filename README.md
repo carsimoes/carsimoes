@@ -61,6 +61,7 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
 
 </br>
 
+<img src="https://github-profile-trophy.vercel.app/?username=carsimoes&theme=juicyfresh&no-bg=true" />
 
 
 </br>
