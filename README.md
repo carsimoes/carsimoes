@@ -70,6 +70,8 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
 [![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6297528)](https://stackoverflow.com/users/6297528/carlos)
 
 
+[![Codewars Badge](https://www.codewars.com/users/carsimoes/badges/large)](https://www.codewars.com/users/carsimoes)
+
 <div align="center">
   <a href="https://github.com/carsimoes">
   <!--
