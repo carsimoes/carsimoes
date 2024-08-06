@@ -38,10 +38,10 @@ Here are some ideas to get you started:
    - Astronomy
    - Music
      
- <br> <br>
+ <br> 
 Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience #machinelearning
 
- <br> <br>
+ <br> 
 
 ### Some interesting repositories from my Github:
   - Use of the FITS file and the astropy library to analise HorseHead Nebula: https://github.com/carsimoes/brightest-pixel-horsehead
