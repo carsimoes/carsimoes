@@ -34,9 +34,7 @@ Here are some ideas to get you started:
 -->
 
    - Software Engineering
-   - Studying Data Science and Artificial Inteligence 
-   - Astronomy
-   - Music
+   - Data Science and Artificial Inteligence 
      
  <br> 
 Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience #machinelearning
@@ -63,12 +61,9 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
 
 <img src="https://github-profile-trophy.vercel.app/?username=carsimoes&theme=juicyfresh&no-bg=true" />
 
-
-</br>
 <img src="https://myreadme.vercel.app/api/embed/carsimoes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6297528)](https://stackoverflow.com/users/6297528/carlos)
-
 
 [![Codewars Badge](https://www.codewars.com/users/carsimoes/badges/large)](https://www.codewars.com/users/carsimoes)
 
