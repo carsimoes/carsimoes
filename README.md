@@ -4,7 +4,7 @@
 
 
 <p align="center"> 
-  Visitor count<br>
+  Visitors<br>
   <img src="https://profile-counter.glitch.me/carsimoes/count.svg" />
 </p>
 
