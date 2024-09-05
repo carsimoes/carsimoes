@@ -60,7 +60,6 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
 
 <img src="https://github-profile-trophy.vercel.app/?username=carsimoes&theme=juicyfresh&no-bg=true" />
 
-<img src="https://myreadme.vercel.app/api/embed/carsimoes?panels=userstatistics,toprepositories,toplanguages,commitgraph" alt="reimaginedreadme" />
 
 [![Dhanushka StackOverflow](https://github-readme-stackoverflow.vercel.app/?userID=6297528)](https://stackoverflow.com/users/6297528/carlos)
 
