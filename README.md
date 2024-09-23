@@ -47,6 +47,7 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
   - Data analysis on the Spotify database: https://github.com/carsimoes/space-is-rock
   - Fish obesity classifier with Support vector Classifier (SVM) concept: https://github.com/carsimoes/FishObesity
   - Python model that performs the prediction of happiness by GDP (Gross Domestic Product): https://github.com/carsimoes/MoneyAndHappiness
+  - Builder Pattern in C#: https://github.com/carsimoes/design-pattern-builder
 
  <br> <br>
 
