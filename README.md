@@ -34,7 +34,7 @@ Here are some ideas to get you started:
 -->
 
    - Software Engineering
-   - Data Science and Artificial Inteligence 
+   - Data Science, Machine learning and Artificial Inteligence 
      
  <br> 
 Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience #machinelearning
