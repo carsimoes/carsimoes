@@ -48,6 +48,7 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
   - Fish obesity classifier with Support vector Classifier (SVM) concept: https://github.com/carsimoes/FishObesity
   - Python model that performs the prediction of happiness by GDP (Gross Domestic Product): https://github.com/carsimoes/MoneyAndHappiness
   - Builder Pattern in C#: https://github.com/carsimoes/design-pattern-builder
+  - Avoid If: https://github.com/carsimoes/avoid-if
 
  <br> <br>
 
