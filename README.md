@@ -1,8 +1,6 @@
 
 ### Hello! 👋
 
-
-
 <p align="center"> 
   Visitors<br>
   <img src="https://profile-counter.glitch.me/carsimoes/count.svg" />
