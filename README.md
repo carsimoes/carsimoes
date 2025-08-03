@@ -14,11 +14,32 @@
 
 ### 🌱 Currently Learning
 
-- 🧱 Software Engineering
+- 🧱 Software Engineering & Clean Architecture
 - 📊 Data Science, Machine Learning, and AI
-- 🧠 Clean Architecture, DDD, and Design Patterns
+- 🧬 **Bioinformatics and Genomic Data Analysis**
 
-> 💬 Let’s talk about: `#coding` `#softwareengineering` `#datascience` `#machinelearning`
+> 💬 Let’s talk about: `#bioinformatics` `#machinelearning` `#softwareengineering` `#datascience`
+
+---
+
+### 🧬 Bioinformatics Interests
+
+I’m passionate about applying programming and data science to biology. Some of the areas I explore include:
+
+
+---
+
+### 🔬 Projects
+
+- 🧠 **[HorseHead Nebula FITS Analysis](https://github.com/carsimoes/brightest-pixel-horsehead)**  
+  Astronomical data processing using FITS and `astropy`
+
+- 🧬 **[Fish Obesity Classifier](https://github.com/carsimoes/FishObesity)**  
+  Conceptual project for biological classification using SVM
+
+- 📈 **[Money and Happiness](https://github.com/carsimoes/MoneyAndHappiness)**  
+  Social science + data modeling — similar approaches can be used for bio-data
+
 
 ---
 
@@ -39,10 +60,37 @@
 
 ---
 
-### 🔬 Featured Repositories
+### 🔧 Other Notable Projects
 
-Here are a few projects I’ve worked on that highlight different skills and domains:
+- 🧱 **[Builder Pattern in C#](https://github.com/carsimoes/design-pattern-builder)** – Clean code & architecture
+- 🔍 **[Elasticsearch Integration](https://github.com/carsimoes/Elasticsearch_Indice_Worker)** – Facade + Search indexing
+- 💡 **[Avoid If](https://github.com/carsimoes/avoid-if)** – Functional programming practices
 
-- 🔭 **[HorseHead Nebula FITS Analysis](https://github.com/carsimoes/brightest-pixel-horsehead)** – Astropy + Astronomy Data
-- 📈 **[Money and Happiness](https://github.com/carsimoes/MoneyAndHappiness)** – GDP vs. Happiness correlation
-- 🎧 **[Spotify]()**
+---
+
+### 🧠 Extra Badges
+
+<p align="center">
+  <a href="https://stackoverflow.com/users/6297528/carlos">
+    <img src="https://github-readme-stackoverflow.vercel.app/?userID=6297528" alt="Carlos Stack Overflow Profile" />
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.codewars.com/users/carsimoes">
+    <img src="https://www.codewars.com/users/carsimoes/badges/large" alt="Carlos Codewars Badge" />
+  </a>
+</p>
+
+---
+
+### 🤝 Connect with Me
+
+<p align="center">
+  <a href="https://www.linkedin.com/in/carlosrenatosimoes">
+    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge" />
+  </a>
+  <a href="https://github.com/carsimoes">
+    <img src="https://img.shields.io/github/followers/carsimoes?color=236ad3&style=flat&logo=github&label=Follow" alt="GitHub followers" />
+  </a>
+</p>
