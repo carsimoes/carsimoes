@@ -3,7 +3,9 @@
 
 <p align="center"> 
   Visitors<br>
-  <img src="https://profile-counter.glitch.me/carsimoes/count.svg" />
+  <!--
+  <img src="https://profile-counter.glitch.me/carsimoes/count.svg" /> -->
+  <img src="https://komarev.com/ghpvc/?username=carsimoes&color=blue" alt="Profile views"/>
 </p>
 
 <div align="center">
