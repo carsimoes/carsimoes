@@ -30,6 +30,10 @@ Here are some ideas to get you started:
 <div align="center">
   
 ![Carlos's GitHub stats](https://github-readme-stats.vercel.app/api?username=carsimoes&show_icons=true&theme=radical)
+
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact&theme=tokyonight)
+
+
 </div>
 
 
@@ -61,9 +65,10 @@ Let`s Talk about #coding #softwareengineering #softawearchitecture #datascience 
 <!--   GitHub stats graph 
 ### 📈 GitHub Activity Graph:
 ![GitHub activity graph](https://activity-graph.herokuapp.com/graph?username=carsimoes&hide_border=true&theme=redical)
--->
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact)
 
+<!--
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact)
+-->
 </br>
 
 <img src="https://github-profile-trophy.vercel.app/?username=carsimoes&theme=juicyfresh&no-bg=true" />
