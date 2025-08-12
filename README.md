@@ -1,5 +1,5 @@
 <!-- Header Greeting -->
-<h1 align="center">Hello! 👋 I'm Carlos Renato</h1>
+<h1 align="center">Hello! 👋
 
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=carsimoes&color=blue&style=flat-square" alt="Profile views"/>
