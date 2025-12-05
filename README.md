@@ -43,22 +43,24 @@ I’m passionate about applying programming and data science to biology. Some of
 
 ---
 
-### 📈 GitHub Stats
+## 📊 GitHub Overview
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=carsimoes&show_icons=true&theme=radical" alt="Carlos's GitHub Stats" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact&theme=tokyonight" alt="Top Languages" />
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=carsimoes&theme=tokyonight" />
+<br><br>
+
+<img height="150em" src="https://github-readme-stats.vercel.app/api?username=carsimoes&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact&theme=tokyonight&hide_border=true"/>
+
 </div>
 
----
+## 🏅 
 
-### 🏆 Trophies & Contributions
+<div align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=carsimoes&theme=tokyonight&no-bg=true&no-frame=true"/>
+</div>
 
-<p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=carsimoes&theme=juicyfresh&no-bg=true" />
-</p>
-
----
 
 ### 🔧 Other Notable Projects
 
