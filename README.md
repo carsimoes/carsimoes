@@ -1,119 +1,33 @@
-<!-- Header Greeting -->
-<h1 align="center">Hello! 👋
+<h1 align="center">Carlos Renato Simões</h1>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=carsimoes&color=blue&style=flat-square" alt="Profile views"/>
-</p>
-
-<!-- Hero GIF -->
-<div align="center">
-  <img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300" alt="Coding GIF" />
-</div>
-
-
-![C#](https://img.shields.io/badge/C%23-239120?style=flat-square&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-512BD4?style=flat-square&logo=dotnet&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=yellow)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178c6?style=for-the-badge&logo=typescript&logoColor=white)
-![NumPy](https://img.shields.io/badge/Numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![Scikit-Learn](https://img.shields.io/badge/Sklearn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-![BioPython](https://img.shields.io/badge/BioPython-0099CC?style=for-the-badge&logo=python&logoColor=white)
-![R](https://img.shields.io/badge/R-276DC3?style=for-the-badge&logo=r&logoColor=white)
-![Jupyter](https://img.shields.io/badge/Jupyter-F37726?style=for-the-badge&logo=jupyter&logoColor=white)
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Kubernetes](https://img.shields.io/badge/Kubernetes-326CE5?style=for-the-badge&logo=kubernetes&logoColor=white)
-![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=githubactions&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/Postgres-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white)
-![GitHub Followers](https://img.shields.io/github/followers/carsimoes?style=for-the-badge)
-![GitHub Stars](https://img.shields.io/github/stars/carsimoes?style=for-the-badge)
----
-
-### 🌱 Currently Learning
-
-- 🧱 Software Engineering & Clean Architecture
-- 📊 Data Science, Machine Learning, and AI
-- 🧬 **Bioinformatics and Genomic Data Analysis**
-
-> 💬 Let’s talk about: `#bioinformatics` `#machinelearning` `#softwareengineering` `#datascience`
-
----
-
-### 🧬 Bioinformatics Interests
-
-I’m passionate about applying programming and data science to biology. Some of the areas I explore include:
-
-
----
-
-### 🔬 Projects
-
-- 🧠 **[HorseHead Nebula FITS Analysis](https://github.com/carsimoes/brightest-pixel-horsehead)**  
-  Astronomical data processing using FITS and `astropy`
-
-- 🧬 **[Fish Obesity Classifier](https://github.com/carsimoes/FishObesity)**  
-  Conceptual project for biological classification using SVM
-
-- 📈 **[Money and Happiness](https://github.com/carsimoes/MoneyAndHappiness)**  
-  Social science + data modeling — similar approaches can be used for bio-data
-
-
----
-
-## 📊 GitHub Overview
-
-<div align="center">
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=carsimoes&theme=tokyonight" />
-<br><br>
-
-<img height="150em" src="https://github-readme-stats.vercel.app/api?username=carsimoes&show_icons=true&theme=tokyonight&hide_border=true"/>
-<img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=carsimoes&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-## 🏅 
-
-<div align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=carsimoes&theme=tokyonight&no-bg=true&no-frame=true"/>
-</div>
-
-
-### 🔧 Other Notable Projects
-
-- 🧱 **[Builder Pattern in C#](https://github.com/carsimoes/design-pattern-builder)** – Clean code & architecture
-- 🔍 **[Elasticsearch Integration](https://github.com/carsimoes/Elasticsearch_Indice_Worker)** – Facade + Search indexing
-- 💡 **[Avoid If](https://github.com/carsimoes/avoid-if)** – Functional programming practices
-
----
-
-### 🧠 Extra Badges
-
-<p align="center">
-  <a href="https://stackoverflow.com/users/6297528/carlos">
-    <img src="https://github-readme-stackoverflow.vercel.app/?userID=6297528" alt="Carlos Stack Overflow Profile" />
-  </a>
+  Software Engineer exploring biological systems through code
 </p>
 
 <p align="center">
-  <a href="https://www.codewars.com/users/carsimoes">
-    <img src="https://www.codewars.com/users/carsimoes/badges/large" alt="Carlos Codewars Badge" />
-  </a>
+  <img src="https://img.shields.io/badge/C%23-.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Python-Data%20Science-3776AB?style=for-the-badge&logo=python&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Bioinformatics-Research-2E8B57?style=for-the-badge"/>
 </p>
 
 ---
 
-### 🤝 Connect with Me
+## 🧠 About
 
-<p align="center">
-  <a href="https://www.linkedin.com/in/carlosrenatosimoes">
-    <img src="https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8" alt="LinkedIn Badge" />
-  </a>
-  <a href="https://github.com/carsimoes">
-    <img src="https://img.shields.io/github/followers/carsimoes?color=236ad3&style=flat&logo=github&label=Follow" alt="GitHub followers" />
-  </a>
-</p>
+I build structured software systems and apply computational methods to ecological and biological problems.
+
+My work connects:
+
+- 🧱 Clean Architecture & Backend Engineering  
+- 📊 Machine Learning & Data Modeling  
+- 🧬 Bioinformatics & Biological Data  
+- 🌱 Ecological Systems Thinking  
+
+---
+
+## 🔬 Focus Areas
+
+```text
+Software Architecture  →  Structured Systems
+Machine Learning       →  Pattern Extraction
+Biology                →  Natural Systems
